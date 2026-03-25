@@ -23,12 +23,12 @@ o Support for immutable backups to protect against ransomware and satisfy compli
 
 o Multi-tenant support with granular RBAC to safely delegate backup and restore operations.
 
-Available as SaaS or a self-hosted deployment.
+o Available as SaaS or a self-hosted deployment.
 
 ## More Information
 
-o **[Sign up](https://cloudcasa.io/) to try CloudCasa for free**
+**[Sign up](https://cloudcasa.io/) to try CloudCasa for free**
 
-o **See the [CloudCasa User Guide]( https://docs.cloudcasa.io/help/)**
+**See the [CloudCasa User Guide]( https://docs.cloudcasa.io/help/)**
 
-o **See our [CloudCasa for NKP](https://cloudcasa.io/partners/nutanix-kubernetes-platform-backup-migration-and-dr/) page**
+**See our [CloudCasa for NKP](https://cloudcasa.io/partners/nutanix-kubernetes-platform-backup-migration-and-dr/) page**
